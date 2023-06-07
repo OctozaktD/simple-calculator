@@ -1,9 +1,0 @@
-File Download Link Scanner
-https://vms.drweb.com/online/?lng=en
-
-This is a website where you can input a link for a website or a download link and it will check it for viruses and make sure it is clean.
-
-Google Drive Direct Download Link Generator
-https://sites.google.com/site/gdocs2direct/?pli=1
-
-This is a website where you can put a link of something in your google drive and share it with someone for them to download with one click.
